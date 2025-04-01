@@ -1,0 +1,12 @@
+numpy>=1.23.0
+snowflake-connector-python>=3.0.0
+fastdtw>=0.3.4
+scipy>=1.10.0
+python-dotenv>=1.0.0
+opencv-python>=4.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.20.0
+transformers>=4.30.0
+pillow>=9.0.0
+accelerate>=0.20.0
