@@ -1,6 +1,20 @@
-# PhysioPro
-Enhancing Mobility with Generative AI-Driven Motion Correction
+<p align="center">
+  <img src="logo.png" alt="PhysioPro Logo" height="150"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Samhita-kolluri/PhysioPro">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/@TheSamzi">
+    <img src="https://img.shields.io/badge/YouTube-e52d27?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://medium.com/@samhitakolluri/from-theory-to-practice-research-driving-physiopros-ai-motion-correction-4ac64eb84333">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+## PhysioPro <h4><i>Enhancing Mobility with Generative AI-Driven Motion Correction</i></h4>
 PhysioPro is a physiotherapy assistance tool that aligns patient movement data with standard physiotherapy exercises, generates corrected movement visualizations using AI, and overlays them onto patient videos for feedback and guidance.
 
 ## Overview
